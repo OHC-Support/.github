@@ -1,2 +1,2 @@
 # .github
-The profile overview for OHC Support
+This is to control details about the org through github
